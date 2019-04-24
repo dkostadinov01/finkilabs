@@ -1,0 +1,57 @@
+ body {
+     width: 800px;
+     height: 600px;
+     margin: 0 auto;
+ }
+
+ .navbar {
+     top: 0px;
+     left: 0px;
+     width: 100%;
+     height: 30px;
+     margin-top: 60px;
+     background-image: url("img/navigation-background.jpg");
+ }
+
+ .navbar #nav {
+     float: left;
+     text-align: center;
+     font-size: 18px;
+ }
+
+ li {
+     list-style: none;
+     display: inline-block;
+ }
+
+ li a {
+     color: white;
+     padding-right: 10px;
+     padding-left: 10px;
+     text-align: center;
+     line-height: 30px;
+     text-decoration: none;
+     margin: 0;
+ }
+
+ #logo {
+     float: left;
+     height: 120px;
+     position: relative;
+     bottom: 50px;
+ }
+
+ p {
+     color: #192402;
+ }
+
+ .end {
+     top: 0px;
+     left: 0px;
+     width: 100%;
+     height: 30px;
+     margin-top: 60px;
+     background-image: url("img/navigation-background.jpg");
+ }
+
+ 
